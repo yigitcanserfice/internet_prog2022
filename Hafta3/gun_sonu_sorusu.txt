@@ -1,0 +1,5 @@
+Bir form oluşturun.
+Bu formda kullanıcı 2 sayı girebilsin.
+Bu sayılardan ilki satır 2.si sütun sayısını ifade etmektedir.
+Bu satır ve sütun sayısında bir tablo oluşturun.
+Bu tablonun her bir hücresini rastgele renkler ile boyayın.

@@ -1,0 +1,14 @@
+-Arama eklenebilir
+	-detaylı bir arama daha sonra eklenebilir
+-silerken kullanıcıya sorma
+-sayfalandırma (çok kayıt olduğunda)
+-silinen kaydı geri alma
+-farklı form elemanlarını kullanma
+-dosya yükleme
+-veri tabanına dosya yükleme
+-çoklu sil
+-pdf çıktı alma
+-excel e çıktı alma
+-kaydı mail atma
+-kaydı eposta ile onaylama
+-çoklu listeden seçimi veritabanına ekleme
